@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Back-End`**
 
-Me chamo Laysa Cibele, tenho 17 anos e sou de Recife, Pernambuco. Atualmente, estou cursando o 3º período de Ciência da Computação, na Uninassau Recife Graças com bolsa integral pelo ProUni. Sou muito curiosa, e, justamente por isso, escolhi seguir carreira em TI, pois é uma área onde sempre estamos decobrindo novos termos, tecnologias, ferramentas e afins.
+Me chamo Laysa Cibele, tenho 17 anos e sou de Recife-Pernambuco. Atualmente, estou cursando o 3º período de Ciência da Computação, na Uninassau Recife Graças com bolsa integral pelo ProUni. Sou muito curiosa, e, justamente por isso, escolhi seguir carreira em TI, pois é uma área onde sempre estamos decobrindo novos termos, tecnologias, ferramentas e pesquisando.
 
 
 ## 🤖 Linguagens e Tecnologias
