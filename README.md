@@ -2,9 +2,10 @@
 
 **`Desenvolvedora Back-End`**
 
-Me chamo Laysa Cibele, tenho 17 anos e sou de Recife–PE.
-Curso o 3º período de Ciência da Computação na Uninassau (Graças), com bolsa integral pelo ProUni.
-Sou curiosa e apaixonada por tecnologia, área que escolhi por estar sempre em constante aprendizado e evolução.
+Laysa Cibele | 17 anos | Recife–PE
+Ciência da Computação (3º período) — Uninassau Graças | ProUni 100%
+Técnico em Inteligência Artificial (1º período) — IFNMG
+Apaixonada por tecnologia, curiosa e sempre em busca de aprender algo novo.
 
 
 ## 🤖 Linguagens e Tecnologias
@@ -27,23 +28,6 @@ Sou curiosa e apaixonada por tecnologia, área que escolhi por estar sempre em c
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
 />
 
-<img
-    align = "left"
-    alt = "Java"
-    title = "Java"
-    width = "45px"
-    style = "padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>
-
-<img
-    align = "left"
-    alt = "Spring"
-    title = "Spring"
-    width = "45px"
-    style = "padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
-/>
 
 <img
     align = "left"
