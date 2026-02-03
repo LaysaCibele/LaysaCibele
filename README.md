@@ -2,11 +2,11 @@
 
 **`Desenvolvedora Back-End`**
 
-Laysa Cibele | 17 anos | Recife–PE
+Laysa Cibele | Recife–PE
 
-Ciência da Computação (3º período) — Uninassau Graças | ProUni 100%
+Ciência da Computação (3º período) 
 
-Técnico em Inteligência Artificial (1º período) — IFNMG
+Técnico em Inteligência Artificial (1º período) 
 
 Apaixonada por tecnologia, curiosa e sempre em busca de aprender algo novo.
 
