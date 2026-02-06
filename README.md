@@ -11,7 +11,7 @@ Técnico em Inteligência Artificial (1º período)
 Apaixonada por tecnologia, curiosa e sempre em busca de aprender algo novo.
 
 
-## 🤖 Linguagens e Tecnologias
+## Linguagens e Tecnologias
 
 <img
     align = "left"
