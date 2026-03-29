@@ -1,12 +1,10 @@
 # 👩🏻‍💻 Laysa Cibele
 
-**`Desenvolvedora Back-End`**
+**`Desenvolvedora Full Stack`**
 
 Laysa Cibele | Recife–PE
 
-Ciência da Computação (3º período) 
-
-Técnico em Inteligência Artificial (1º período) 
+Ciência da Computação e Téc. Inteligência Artificial 
 
 Apaixonada por tecnologia, curiosa e sempre em busca de aprender algo novo.
 
