@@ -3,7 +3,9 @@
 **`Data Scientist & Machine Learning | Backend Developer`**
 
 Laysa Cibele | Recife–PE
+
 Estagiária em Ciência de Dados
+
 Ciência da Computação e Téc. Inteligência Artificial 
 
 Apaixonada por tecnologia, curiosa e sempre em busca de aprender algo novo.
