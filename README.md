@@ -11,7 +11,7 @@ Ciência da Computação e Téc. Inteligência Artificial
 Apaixonada por tecnologia, curiosa e sempre em busca de aprender algo novo.
 
 
-## Linguagens e Tecnologias
+## Core Tech Stack
 
 <img
     align="left"
