@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Laysa Cibele
 
-**`Desenvolvedora Full Stack`**
+**`Data Scientist & Machine Learning | Backend Developer`**
 
 Laysa Cibele | Recife–PE
 
@@ -12,87 +12,114 @@ Apaixonada por tecnologia, curiosa e sempre em busca de aprender algo novo.
 ## Linguagens e Tecnologias
 
 <img
-    align = "left"
-    alt = "Python"
-    title = "Python"
-    width = "45px"
-    style = "padding-right: 10px;"
-    src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+    align="left"
+    alt="Python"
+    title="Python"
+    width="45px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
 
 <img
-    align = "left"
-    alt = "Django"
-    title = "Django"
-    width = "45px"
-    style = "padding-right: 10px;"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
-/>
-
-
-<img
-    align = "left"
-    alt = "HTML"
-    title = "HTML"
-    width = "45px"
-    style = "padding-right: 10px;"
-    src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+    align="left"
+    alt="Django"
+    title="Django"
+    width="45px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
 />
 
 <img
-    align = "left"
-    alt = "CSS"
-    title = "CSS"
-    width = "45px"
-    style = "padding-right: 10px;"
-    src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+    align="left"
+    alt="Docker"
+    title="Docker"
+    width="45px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
 />
 
 <img
-    align = "left"
-    alt = "JavaScript"
-    title = "JavaScript"
-    width = "45px"
-    style = "padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-/>
-
-
-<img
-    align = "left"
-    alt = "PyTest"
-    title = "PyTest"
-    width = "45px"
-    style = "padding-right: 10px;"
-    src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg"
+    align="left"
+    alt="Pandas"
+    title="Pandas"
+    width="45px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
 />
 
 <img
-    align = "left"
-    alt = "SQLite"
-    title = "SQLite"
-    width = "45px"
-    style = "padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"
+    align="left"
+    alt="NumPy"
+    title="NumPy"
+    width="45px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"
 />
 
 <img
-    align = "left"
-    alt = "Postman"
-    title = "Postman"
-    width = "45px"
-    style = "padding-right: 10px;"
-    src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
+    align="left"
+    alt="PySpark"
+    title="PySpark"
+    width="45px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg"
 />
 
 <img
-    align = "left"
-    alt = "git"
-    title = "git"
-    width = "45px"
-    style = "padding-right: 10px;"
+    align="left"
+    alt="scikit-learn"
+    title="scikit-learn"
+    width="45px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"
+/>
+
+<img
+    align="left"
+    alt="Databricks"
+    title="Databricks"
+    width="45px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/databricks/databricks-original.svg"
+/>
+
+<img
+    align="left"
+    alt="SQL"
+    title="SQL"
+    width="45px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
+/>
+
+<img
+    align="left"
+    alt="PyTest"
+    title="PyTest"
+    width="45px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg"
+/>
+
+<img
+    align="left"
+    alt="Postman"
+    title="Postman"
+    width="45px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
+/>
+
+<img
+    align="left"
+    alt="Git"
+    title="Git"
+    width="45px"
+    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
+
+
 
 
 
