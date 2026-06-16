@@ -76,15 +76,6 @@ Apaixonada por tecnologia, curiosa e sempre em busca de aprender algo novo.
 
 <img
     align="left"
-    alt="Databricks"
-    title="Databricks"
-    width="45px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/databricks/databricks-original.svg"
-/>
-
-<img
-    align="left"
     alt="SQL"
     title="SQL"
     width="45px"
