@@ -1,17 +1,23 @@
 # 👩🏻‍💻 Laysa Cibele
 
-**`Data Scientist & Machine Learning | Backend Developer`**
+**`Data Science & Machine Learning `**
 
-Laysa Cibele | Recife–PE
+Olá! Sou Laysa Cibele, estudante de Ciência da Computação e Técnica em Inteligência Artificial, atualmente estagiando na área de Ciência de Dados.
 
-Estagiária em Ciência de Dados
+Tenho interesse em dados, inteligência artificial e machine learning, utilizando Python, SQL e ferramentas do ecossistema de dados para explorar, transformar e analisar informações.
 
-Ciência da Computação e Téc. Inteligência Artificial 
+Além da área de dados, também gosto de explorar o desenvolvimento de aplicações e criar projetos diversos — como jogos, aplicações web e outros — utilizando diferentes tecnologias como hobby. 
 
-Apaixonada por tecnologia, curiosa e sempre em busca de aprender algo novo.
+## Minha Stack:
 
+Dados:
+Python → Pandas → NumPy → PySpark → Scikit-learn → SQL → PyTorch
 
-## Core Tech Stack
+Desenvolvimento/hobby:
+Django → HTML5 → CSS3 → JavaScript → Java → Spring Boot
+
+Ferramentas:
+Git → Docker → PyTest → Postman
 
 <img
     align="left"
@@ -111,8 +117,5 @@ Apaixonada por tecnologia, curiosa e sempre em busca de aprender algo novo.
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
-
-
-
 
 
