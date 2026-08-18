@@ -6,7 +6,6 @@ Olá! Sou Laysa Cibele, estudante de Ciência da Computação e Técnica em Inte
 
 Tenho interesse em dados, inteligência artificial e machine learning, utilizando Python, SQL e ferramentas do ecossistema de dados para explorar, transformar e analisar informações.
 
-Além da área de dados, também gosto de explorar o desenvolvimento de aplicações e criar projetos diversos — como jogos, aplicações web e outros — utilizando diferentes tecnologias como hobby. 
 
 ## Minha Stack:
 <img
