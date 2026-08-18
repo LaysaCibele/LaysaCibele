@@ -116,15 +116,6 @@ Tenho interesse em dados, inteligência artificial e machine learning, utilizand
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
 
-<img
-    align="left"
-    alt="Postman"
-    title="Postman"
-    width="45px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
-/>
-
 
 <img
     align="left"
