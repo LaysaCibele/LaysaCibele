@@ -9,16 +9,6 @@ Tenho interesse em dados, inteligência artificial e machine learning, utilizand
 Além da área de dados, também gosto de explorar o desenvolvimento de aplicações e criar projetos diversos — como jogos, aplicações web e outros — utilizando diferentes tecnologias como hobby. 
 
 ## Minha Stack:
-
-Dados:
-Python → Pandas → NumPy → PySpark → Scikit-learn → SQL → PyTorch
-
-Desenvolvimento/hobby:
-Django → HTML5 → CSS3 → JavaScript → Java → Spring Boot
-
-Ferramentas:
-Git → Docker → PyTest → Postman
-
 <img
     align="left"
     alt="Python"
