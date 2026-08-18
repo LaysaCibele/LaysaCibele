@@ -17,23 +17,6 @@ Tenho interesse em dados, inteligência artificial e machine learning, utilizand
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
 
-<img
-    align="left"
-    alt="Django"
-    title="Django"
-    width="45px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
-/>
-
-<img
-    align="left"
-    alt="Docker"
-    title="Docker"
-    width="45px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
-/>
 
 <img
     align="left"
@@ -82,11 +65,55 @@ Tenho interesse em dados, inteligência artificial e machine learning, utilizand
 
 <img
     align="left"
-    alt="PyTest"
-    title="PyTest"
+    alt="Azure"
+    title="Azure"
     width="45px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg"
+/>
+
+<img
+    align="left"
+    alt="Databricks"
+    title="Databricks"
+    width="45px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/databricks.svg"
+/>
+
+<img
+    align="left"
+    alt="Metabase"
+    title="Metabase"
+    width="45px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/metabase.svg"
+/>
+
+<img
+    align="left"
+    alt="N8N"
+    title="N8N"
+    width="45px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/n8n.svg"
+/>
+
+<img
+    align="left"
+    alt="Docker"
+    title="Docker"
+    width="45px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
+/>
+<img
+    align="left"
+    alt="Git"
+    title="Git"
+    width="45px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
 
 <img
@@ -98,13 +125,22 @@ Tenho interesse em dados, inteligência artificial e machine learning, utilizand
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
 />
 
+
 <img
     align="left"
-    alt="Git"
-    title="Git"
+    alt="Django"
+    title="Django"
     width="45px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
 />
 
+<img
+    align="left"
+    alt="PyTest"
+    title="PyTest"
+    width="45px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg"
+/>
 
