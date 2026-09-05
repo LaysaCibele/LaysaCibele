@@ -95,6 +95,6 @@ Tenho interesse em dados, inteligência artificial e machine learning, utilizand
 ### Ferramentas
 - Git • GitHub • Docker • PyTest • Postman • n8n
 
-### 🌐 Desenvolvimento Full Stack 
-Embora não seja minha principal área de atuação, gosto de me aventurar pelo universo do desenvolvimento e explorar a construção de aplicações Full Stack.
-- HTML • CSS • JavaScript • React • Java • Spring Boot • Django
+### Desenvolvimento Full Stack 
+Embora não seja minha principal área de atuação, tenho curiosidade sobre a área de desenvolvimento e exploro-a através da construção de algumas aplicações Full Stack.
+- Java • Spring Boot • Django • React • HTML • CSS • JavaScript   
