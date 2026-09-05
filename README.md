@@ -105,15 +105,6 @@ Tenho interesse em dados, inteligência artificial e machine learning, utilizand
 
 <img
  align="left"
- alt="GitHub"
- title="GitHub"
- width="32px"
- style="padding-right: 8px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-/>
-
-<img
- align="left"
  alt="Docker"
  title="Docker"
  width="32px"
@@ -183,6 +174,15 @@ Embora não seja minha principal área de atuação, tenho curiosidade sobre a �
 
 <img
  align="left"
+ alt="JavaScript"
+ title="JavaScript"
+ width="30px"
+ style="padding-right: 8px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
+
+<img
+ align="left"
  alt="React"
  title="React"
  width="30px"
@@ -190,31 +190,7 @@ Embora não seja minha principal área de atuação, tenho curiosidade sobre a �
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
 />
 
-<img
- align="left"
- alt="HTML5"
- title="HTML5"
- width="30px"
- style="padding-right: 8px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-/>
 
-<img
- align="left"
- alt="CSS3"
- title="CSS3"
- width="30px"
- style="padding-right: 8px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-/>
 
-<img
- align="left"
- alt="JavaScript"
- title="JavaScript"
- width="30px"
- style="padding-right: 8px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-/>
 
 <br clear="left"/>
