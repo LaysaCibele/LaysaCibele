@@ -90,48 +90,9 @@ Tenho interesse em dados, inteligência artificial e machine learning, utilizand
     src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/metabase.svg"
 />
 
-<img
-    align="left"
-    alt="N8N"
-    title="N8N"
-    width="45px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/n8n.svg"
-/>
 
-<img
-    align="left"
-    alt="Docker"
-    title="Docker"
-    width="45px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
-/>
-<img
-    align="left"
-    alt="Git"
-    title="Git"
-    width="45px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
+### Ferramentas
+Git • GitHub • Docker • PyTest • Postman • n8n
 
-
-<img
-    align="left"
-    alt="Django"
-    title="Django"
-    width="45px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
-/>
-
-<img
-    align="left"
-    alt="PyTest"
-    title="PyTest"
-    width="45px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg"
-/>
-
+### 🌐 Desenvolvimento Full Stack 
+HTML • CSS • JavaScript • React • Java • Spring Boot • Django
