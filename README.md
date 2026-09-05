@@ -90,9 +90,11 @@ Tenho interesse em dados, inteligência artificial e machine learning, utilizand
     src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/metabase.svg"
 />
 
+<br clear="left"/>
 
 ### Ferramentas
-Git • GitHub • Docker • PyTest • Postman • n8n
+- Git • GitHub • Docker • PyTest • Postman • n8n
 
 ### 🌐 Desenvolvimento Full Stack 
-HTML • CSS • JavaScript • React • Java • Spring Boot • Django
+Embora não seja minha principal área de atuação, gosto de me aventurar pelo universo do desenvolvimento e explorar a construção de aplicações Full Stack.
+- HTML • CSS • JavaScript • React • Java • Spring Boot • Django
