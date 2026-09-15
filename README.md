@@ -87,15 +87,11 @@ Olá! Sou Laysa Cibele, estudante de Ciência da Computação e Téc. em Intelig
  src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/metabase.svg"
 />
 
-<br clear="left"/>
-
-### Ferramentas
-
 <img
  align="left"
  alt="Git"
  title="Git"
- width="32px"
+ width="45px"
  style="padding-right: 8px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
@@ -104,7 +100,7 @@ Olá! Sou Laysa Cibele, estudante de Ciência da Computação e Téc. em Intelig
  align="left"
  alt="Docker"
  title="Docker"
- width="32px"
+ width="45px"
  style="padding-right: 8px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
 />
@@ -113,7 +109,7 @@ Olá! Sou Laysa Cibele, estudante de Ciência da Computação e Téc. em Intelig
  align="left"
  alt="PyTest"
  title="PyTest"
- width="32px"
+ width="45px"
  style="padding-right: 8px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg"
 />
@@ -122,7 +118,7 @@ Olá! Sou Laysa Cibele, estudante de Ciência da Computação e Téc. em Intelig
  align="left"
  alt="Postman"
  title="Postman"
- width="32px"
+ width="45px"
  style="padding-right: 8px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
 />
