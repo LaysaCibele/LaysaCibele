@@ -2,10 +2,7 @@
 
 **`Data Science & Machine Learning `**
 
-Olá! Sou Laysa Cibele, estudante de Ciência da Computação e Técnica em Inteligência Artificial, atualmente estagiando na área de Ciência de Dados.
-
-Tenho interesse em dados, inteligência artificial e machine learning, utilizando Python, SQL e ferramentas do ecossistema de dados para explorar, transformar e analisar informações.
-
+Olá! Sou Laysa Cibele, estudante de Ciência da Computação e Téc. em Inteligência Artificial. Sou estagiária em ciência de dados. Busco desenvolver projetos pessoais relacionado  a data science e desenvolvimento fullstack aqui no github.
 
 ## Minha Stack:
 
@@ -130,67 +127,6 @@ Tenho interesse em dados, inteligência artificial e machine learning, utilizand
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
 />
 
-<img
- align="left"
- alt="n8n"
- title="n8n"
- width="32px"
- style="padding-right: 8px;"
- src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/n8n.svg"
-/>
 
 <br clear="left"/>
 
-#### Desenvolvimento Full Stack
-
-Embora não seja minha principal área de atuação, tenho curiosidade sobre a área de desenvolvimento e exploro-a através da construção de algumas aplicações Full Stack.
-
-<img
- align="left"
- alt="Java"
- title="Java"
- width="30px"
- style="padding-right: 8px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>
-
-<img
- align="left"
- alt="Spring Boot"
- title="Spring Boot"
- width="30px"
- style="padding-right: 8px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
-/>
-
-<img
- align="left"
- alt="Django"
- title="Django"
- width="30px"
- style="padding-right: 8px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
-/>
-
-<img
- align="left"
- alt="JavaScript"
- title="JavaScript"
- width="30px"
- style="padding-right: 8px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-/>
-
-<img
- align="left"
- alt="React"
- title="React"
- width="30px"
- style="padding-right: 8px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-/>
-
-
-
-
-<br clear="left"/>
