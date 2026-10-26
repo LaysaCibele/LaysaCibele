@@ -2,7 +2,7 @@
 
 **`Data Science & Machine Learning `**
 
-Olá! Sou a Laysa Cibele! ;)
+Olá! Sou a Lay! ;)
 
 Estagiária em Ciência de Dados e estudante de Ciência da Computação e IA. Gosto de transformar dados em modelos e ideias em projetos que funcionam.
 
