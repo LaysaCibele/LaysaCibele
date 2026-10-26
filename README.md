@@ -2,9 +2,12 @@
 
 **`Data Science & Machine Learning `**
 
-Olá! Sou Laysa Cibele, estagiária em Ciência de Dados, estudante de Ciência da Computação e IA.
-Aqui compartilho projetos e estudos relacionados a Ciência de Dados, Machine Learning e Inteligência Artificial. Também desenvolvo projetos de desenvolvimento fullstack por pura curiosidade.
-Este perfil reúne um pouco do que venho aprendendo, experimentando e construindo ao longo da minha formação.
+Olá! Sou a Laysa Cibele! ;)
+Estagiária em Ciência de Dados e estudante de Ciência da Computação e IA. Gosto de transformar dados em modelos e ideias em projetos que funcionam.
+
+Neste perfil compartilho meus estudos e projetos em Ciência de Dados, Machine Learning e Inteligência Artificial. Também gosto de construir aplicações fullstack, muitas vezes por pura curiosidade, e de explorar agentes e assistentes de IA.
+
+Aqui fica um pouco do que venho aprendendo, testando e construindo ao longo da minha formação. 🌱
 
 
 ## Minha Stack:
